@@ -23,6 +23,6 @@ Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grov
 *** Note that this is a draft repository. A full desciption will be given later !!
 
 ### Author
-Mohamed Yassine Ferjani
-ferjanimedyassine@gmail.com
-QHack Team name: Qonlyme
+* Mohamed Yassine Ferjani
+* Contact: ferjanimedyassine@gmail.com
+* QHack Team name: Qonlyme
