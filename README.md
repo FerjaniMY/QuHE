@@ -18,10 +18,11 @@ This project, we developed QuHE, a library for quantum homomorphic enryption usi
 ### Examples
 Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grover.ipynb
 
-### Sources (will be given later)
+### Refrencesces (will be given later)
 
 *** Note that this is a draft repository. A full desciption will be given later !!
 
 ### Author
 Mohamed Yassine Ferjani
 ferjanimedyassine@gmail.com
+QHack Team name: Qonlyme
