@@ -16,3 +16,7 @@ Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grov
 ### Sources (will be given later)
 
 *** Note that this is a draft repository. A full desciption will be given later !!
+
+### Author
+Mohamed Yassine Ferjani
+ferjanimedyassine@gmail.com
