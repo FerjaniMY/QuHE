@@ -9,4 +9,7 @@ Quantum computers will tackle problems in different fields such as medical resea
 
 This project, we developed QuHE, a library for quantum homomorphic enryption using Qiskit in which we implement some quantum homomorphic encryption protocols to allow the quantum computer to compute on encrypted data. Then, we provide quantum search on encrypted data as an application of the implemented library
 
+### Examples
+Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grover.ipynb
+
 ### Sources (will be given later)
