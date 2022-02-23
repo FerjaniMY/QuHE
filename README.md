@@ -1,4 +1,5 @@
 ### QuHE: Open source library for quantum homomorphic encryption
+- ![image](./img/QFHE.png)
 
 
 ### Project Description: 
