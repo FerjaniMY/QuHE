@@ -15,6 +15,12 @@ Fully homomorphic encryption enables arbitrary computation on encrypted data wit
 
 In this project, we developed QuHE, a library for quantum homomorphic enryption using Qiskit in which we implement some quantum homomorphic encryption protocols to allow the quantum computer to compute on encrypted data. Then, we provide an implementation of Grover's search on encrypted data using our library.
 
+### Future goals and directions of the project:
+* Build the first open-source library for quantum homomorphic encryption (QHE). 
+* Provide the first qiskit implementation of QHE protocols.
+* Make qiskit notebooks that help people to learn about QHE.
+
+
 ### Examples
 Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grover.ipynb
 
@@ -22,7 +28,8 @@ Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grov
 
 *** Note that this is a draft repository. A full desciption will be given later !!
 
-### Author
-* Mohamed Yassine Ferjani
+### Hackathon information
+* Author: Mohamed Yassine Ferjani
 * Contact: ferjanimedyassine@gmail.com
 * QHack Team name: Qonlyme
+* This project is submitted to the Amazon Braket Challenge and the IBM Qiskit Challenge.
