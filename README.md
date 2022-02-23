@@ -14,3 +14,5 @@ This project, we developed QuHE, a library for quantum homomorphic enryption usi
 Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grover.ipynb
 
 ### Sources (will be given later)
+
+*** Note that this is a draft repository. A full desciption will be given later !!
