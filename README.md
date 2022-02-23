@@ -32,4 +32,4 @@ Check out this example: https://github.com/FerjaniMY/QuHE/blob/master/tests/grov
 * Author: Mohamed Yassine Ferjani
 * Contact: ferjanimedyassine@gmail.com
 * QHack Team name: Qonlyme
-* This project is submitted to the Amazon Braket Challenge and the IBM Qiskit Challenge.
+* Challenges: Amazon Braket Challenge & IBM Qiskit Challenge.
