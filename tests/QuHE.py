@@ -74,11 +74,7 @@ class Context:
 
         for i in range(len(self.keys[0])):
             self.qc.measure(i,i)
-        #self.qc.measure(0,0)
-        #if self.verify=True and self.scheme.upper()=='LIANG'::
-        #    for i in range(self.nb):
-        #        if i!=j:
-        #            qc.measure(i,i) #measure all qubits except the one that contains T-gates
+       
         
         print(self.qc)
         backend = BasicAer.get_backend('qasm_simulator')
@@ -194,11 +190,7 @@ class Context:
                 
             
             elif self.method.upper()=='QOTP':
-                #print(qc)
-                #if self.verify==True:
-                    #x=self.execute_circuit(j)
-                #x=self.execute_circuit()# meas results of the updated circuit
-                #measurement
+                
                 self.qc.barrier()
                 for i in range(len(self.keys[0])):
                     self.qc.measure(i,i)
@@ -217,9 +209,7 @@ class Context:
                 
                 s=['']*len(x)
 
-                #if self.verify==True:
-                #x=x[2:len(self.keys[0])]
-                #print('new x',x)
+                
                 
                 c=len(self.keys[0])
                 #print('Xj',x)
@@ -227,12 +217,7 @@ class Context:
                 for i in range(len(x)):
 
                   for j in range(len(self.keys[0])): #nbqubits = len(self.keys[0])
-                    #self.qc.measure(j) #client side
-                    #calculates the results
-                    #return (int(x[j+1])+ self.keys[0][j])%2,(int(x[j])+self.keys[0][j+1])%2 # reverse the order of qubits according to quantum information convention
-                    # !!! the output result is not reversed like the qiskit outputs.
-                    #s+=str((int(x[len(self.keys[0])-j-1])+ self.keys[0][j])%2)
-                    #print('test',x[i][j],j)
+                    
                      
                      
 
