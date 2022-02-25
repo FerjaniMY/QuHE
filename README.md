@@ -15,7 +15,6 @@ In tradition (quantum/classical) cryptography, the server needs to decrypt the d
 
 In this project, we developed QuHE, a library for quantum homomorphic enryption using Qiskit in which we implement some quantum homomorphic encryption protocols to allow the quantum computer to compute on encrypted data. Then, we provide an implementation of Grover's search on encrypted data using our library.
 
-### Presentation
 
 ### Future goals and directions of the project:
 * Build the first open-source library for quantum homomorphic encryption (QHE). 
